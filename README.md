@@ -7,3 +7,5 @@
 
 <h3> Languages and Tools </h3>
 <p> Java, C++, Python, SQL, Gradle* </p>
+
+*just started learning
