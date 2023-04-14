@@ -37,5 +37,5 @@
   </table>
   
   <h3>Links</h3>
-  <a href="scavable.infinityfreeapp.com"> My Personal Website </a>
+  <a href="http://scavable.infinityfreeapp.com"> My Personal Website </a>
 </body>
