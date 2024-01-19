@@ -5,7 +5,7 @@
 
 <body>
   <h3> Current Project </h3>
-  <p> Central Gaming (in repositories) </p>
+  <p> Student Management (in repositories) </p>
 
   <h3> Languages </h3>
   <table>
@@ -35,7 +35,5 @@
       <td> Maven </td>
     </tr>
   </table>
-  
-  <h3>Links</h3>
-  <a href="http://scavable.infinityfreeapp.com" target="_blank" rel="noopener noreferrer"> My Personal Website </a>
+
 </body>
