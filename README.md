@@ -27,10 +27,9 @@
       <td> Intellij </td>
       <td> Sublime </td>
       <td> Notepad++ </td>
-      <td> MySQL </td>
+      <td> MySQL Community</td>
     </tr>
     <tr>
-      <td> infinityfree.net </td>
       <td> Gradle </td>
       <td> Maven </td>
     </tr>
