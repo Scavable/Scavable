@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h3> About Me </h3>
-<p> I am an easy going person, though not a pushover, with a passion for programming. I hold a Bachelor degree in Computer Information Systems, and an Associate degree in Information Technology. I enjoy creating and developing new projects to learn new concepts, refine my skills. </p>
+<p> I am an easy going person, though not a pushover, with a passion for programming. I hold a Bachelor degree in Computer Information Systems, and an Associate degree in Information Technology. I enjoy creating and developing new projects to learn new concepts, and refine my skills. </p>
 
 <body>
   <h3> Current Project </h3>
