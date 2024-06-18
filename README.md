@@ -5,7 +5,7 @@
 
 <body>
   <h3> Current Project </h3>
-  <p> Student Management (in repositories) </p>
+  <p>  </p>
 
   <h3> Languages </h3>
   <table>
