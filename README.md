@@ -5,7 +5,7 @@
 
 <body>
   <h3> Current Project </h3>
-  <p>  </p>
+  <p>   </p>
 
   <h3> Languages </h3>
   <table>
@@ -18,6 +18,8 @@
     <tr>
       <td> HTML </td>
       <td> CSS </td>
+      <td> Javascript </td>
+      <td> Typescript </td>
     </tr>
   </table>
 
