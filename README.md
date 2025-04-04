@@ -5,7 +5,7 @@
 
 <body>
   <h3> Current Project </h3>
-  <p>   </p>
+  <p>  FTC-Discord: https://github.com/Scavable/FTC-Discord </p>
 
   <h3> Languages </h3>
   <table>
